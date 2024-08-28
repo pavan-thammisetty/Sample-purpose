@@ -1,3 +1,6 @@
 Hi This sample file
 for learning purpose
 
+
+welcome to python world
+welcome to bangaloregit 
